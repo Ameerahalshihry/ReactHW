@@ -2,7 +2,7 @@ import './App.css'
 import Nav from './component/Nav'
 import Footer from './component/Footer'
 import Movie from './component/Movie'
-import Show from './component/Shows'
+import Show from './component/Show'
 
 function App() {
 let movies = [
